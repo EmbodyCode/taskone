@@ -10,9 +10,6 @@ class HiController extends Controller
 	/**
      * @Route("/hi/")
      */
-    //изменил
-    //хуй пиздец
-    //ебать нахуй его в рот я хуею.
 	public function helloWorld()
 	{
 		return $this->render(
